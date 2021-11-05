@@ -1,2 +1,4 @@
 *.python linguist-detectable=true
 *.Django linguist-detectable=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
