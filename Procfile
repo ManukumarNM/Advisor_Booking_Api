@@ -1,1 +1,1 @@
-web: gunicorn Advisor_Network.wsgi --log-file -
+web: gunicorn Advisor_Network.wsgi:application
